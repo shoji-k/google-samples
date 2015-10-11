@@ -1,0 +1,11 @@
+{
+  "name": "firebase-handson",
+  "description": "gdgkode@sakura internet at 2015-10-11",
+  "homepage": "",
+  "keywords": [], 
+  "author": "",
+  "private": true,
+  "dependencies": {
+    "firebase": "~2.3.1"
+  }
+}
